@@ -1,0 +1,3 @@
+﻿  resourceMonitor.cpp
+LINK : warning LNK4044: unrecognized option '/link pdh.lib'; ignored
+  resourceMonitor.vcxproj -> C:\Users\RoweB\source\repos\resourceMonitor\x64\Debug\resourceMonitor.exe

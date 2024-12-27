@@ -1,0 +1,7 @@
+﻿  resourceMonitor.cpp
+resourceMonitor.obj : error LNK2019: unresolved external symbol _PdhOpenQueryW@12 referenced in function _main
+resourceMonitor.obj : error LNK2019: unresolved external symbol _PdhAddCounterW@16 referenced in function _main
+resourceMonitor.obj : error LNK2019: unresolved external symbol _PdhCollectQueryData@4 referenced in function _main
+resourceMonitor.obj : error LNK2019: unresolved external symbol _PdhCloseQuery@4 referenced in function _main
+resourceMonitor.obj : error LNK2019: unresolved external symbol _PdhGetFormattedCounterValue@16 referenced in function _main
+C:\Users\RoweB\source\repos\resourceMonitor\Debug\resourceMonitor.exe : fatal error LNK1120: 5 unresolved externals
